@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaperHammer&layout=compact)](https://github.com/PaperHammer/github-readme-stats)
+
+![PaperHammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaperHammer&show_icons=true&theme=dark)
 
 <!--
 **PaperHammer/PaperHammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
