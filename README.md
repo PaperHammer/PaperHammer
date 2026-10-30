@@ -12,8 +12,7 @@
 ![WinUI 3](https://img.shields.io/badge/WinUI_3-30363D?style=flat-square)
 ![WPF](https://img.shields.io/badge/WPF-30363D?style=flat-square)
 ![XAML](https://img.shields.io/badge/XAML-30363D?style=flat-square)
-![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-30363D?style=flat-square)
-![Windows SDK](https://img.shields.io/badge/Windows_SDK-30363D?style=flat-square)
+![Windows App](https://img.shields.io/badge/Windows_App-30363D?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-30363D?style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-30363D?style=flat-square)
 
