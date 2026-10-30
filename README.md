@@ -1,34 +1,37 @@
-<h3> 🛠 &nbsp;Tech Stack</h3>
+## Featured Projects
 
-- 💻 &nbsp;
-  ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net&logoColor=BC8AE8)
-  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=BC8AE8)
-- 🛢 &nbsp;
-  ![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server&logoColor=CC2927)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio-code&logoColor=BC8AE8)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio&logoColor=007ACC)
+| Project | About | Links |
+| :--- | :--- | :--- |
+| **[VirtualPaper](https://github.com/PaperHammer/VirtualPaper)** | An open-source wallpaper application for Windows. | [Download](https://github.com/PaperHammer/VirtualPaper/releases/latest) · [Wiki](https://github.com/PaperHammer/VirtualPaper/wiki) |
+| **[XamlNexus](https://github.com/PaperHammer/XamlNexus)** | A .NET CLI tool for creating and maintaining WinUI 3 desktop apps. | [Docs](https://github.com/PaperHammer/XamlNexus/tree/main/docs) · [NuGet](https://www.nuget.org/packages/XamlNexus) |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaperHammer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## My Toolbox
 
-![PaperHammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaperHammer&show_icons=true&theme=dark)
+[![My Toolbox](https://skillicons.dev/icons?i=cs,dotnet,windows,visualstudio,vscode,git,postgres,redis&theme=dark)](https://skillicons.dev)
 
-<!--
-**PaperHammer/PaperHammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![WinUI 3](https://img.shields.io/badge/WinUI_3-30363D?style=flat-square)
+![WPF](https://img.shields.io/badge/WPF-30363D?style=flat-square)
+![XAML](https://img.shields.io/badge/XAML-30363D?style=flat-square)
+![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-30363D?style=flat-square)
+![Windows SDK](https://img.shields.io/badge/Windows_SDK-30363D?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-30363D?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-30363D?style=flat-square)
 
-Here are some ideas to get you started:
+## GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img
+      height="160"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=PaperHammer&amp;layout=compact&amp;theme=dark&amp;bg_color=0D1117&amp;title_color=B794F4&amp;text_color=C9D1D9&amp;hide_border=true"
+      alt="PaperHammer's most used languages"
+    />
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img
+      height="160"
+      src="https://github-stats-extended.vercel.app/api?username=PaperHammer&amp;show_icons=true&amp;theme=dark&amp;bg_color=0D1117&amp;title_color=B794F4&amp;icon_color=B794F4&amp;text_color=C9D1D9&amp;hide_border=true"
+      alt="PaperHammer's GitHub stats"
+    />
+  </a>
+</p>
